@@ -68,7 +68,7 @@ body {
   border-radius: 0px 0px 15px 15px;
 }
 
-h3 {
+h1 {
   color: #2e3349;
   font-size: var(--fs-body);
   font-weight: var(--fw-700);
@@ -79,7 +79,7 @@ h3 {
   font-weight: var(--fw-400);
 }
 
-h4 {
+h2 {
   font-size: var(--fs-heading);
 }
 
